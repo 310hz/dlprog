@@ -11,11 +11,11 @@ setup(
     packages=["dlprog"],
     package_dir={"dlprog": "dlprog"},
     python_requires=">=3",
-    url="https://github.com/misya11p/dlprog",
+    url="https://github.com/310hz/dlprog",
     project_urls={
-        "Repository": "https://github.com/misya11p/dlprog",
+        "Repository": "https://github.com/310hz/dlprog",
     },
-    author="misya11p",
+    author="310hz",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Programming Language :: Python",

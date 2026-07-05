@@ -11,7 +11,7 @@ dlprog
 A Python library for progress bars with the function of aggregating each iteration's value.  
 It helps manage the loss of each epoch in deep learning or machine learning training.
 
-**source and usage**: `misya11p/dlprog <https://github.com/misya11p/dlprog>`_
+**source and usage**: `310hz/dlprog <https://github.com/310hz/dlprog>`_
 
 .. autoclass:: dlprog.Progress
    :members:

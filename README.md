@@ -12,7 +12,7 @@ It helps manage the loss of each epoch in deep learning or machine learning trai
 ![demo](docs/images/demo.gif)
 
 - [PyPI](https://pypi.org/project/dlprog/)
-- [API Reference](https://misya11p.github.io/dlprog/)
+- [API Reference](https://310hz.github.io/dlprog/)
 
 ## Installation
 
@@ -106,7 +106,7 @@ prog.update(loss.item(), weight=len(x))
 ## Advanced usage
 
 Advanced arguments, functions, etc.  
-Also, see [API Reference](https://misya11p.github.io/dlprog/) if you want to know more.
+Also, see [API Reference](https://310hz.github.io/dlprog/) if you want to know more.
 
 ### `leave_freq`
 

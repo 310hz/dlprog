@@ -11,9 +11,9 @@ sys.path.insert(0, os.path.abspath("../../"))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "dlprog"
-copyright = "2023, misya11p"
-author = "misya11p"
-release = "1.2.8"
+copyright = "2023-2026, 310hz"
+author = "310hz"
+release = "1.2.9"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
