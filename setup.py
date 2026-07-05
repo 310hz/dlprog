@@ -14,6 +14,7 @@ setup(
     url="https://github.com/310hz/dlprog",
     project_urls={
         "Repository": "https://github.com/310hz/dlprog",
+        "API Reference": "https://310hz.github.io/dlprog/",
     },
     author="310hz",
     classifiers=[
