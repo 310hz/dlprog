@@ -1,8 +1,0 @@
-# Sphinx build metadata/cache
-.buildinfo
-.doctrees/
-objects.inv
-
-# Unreferenced static files emitted by some Sphinx/theme versions
-_static/jquery-3.6.0.js
-_static/underscore-1.13.1.js

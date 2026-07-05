@@ -1,0 +1,11 @@
+dist/*
+*.egg-info
+
+# Sphinx build metadata/cache
+docs/.buildinfo
+docs/.doctrees/
+docs/objects.inv
+
+# Unreferenced static files emitted by some Sphinx/theme versions
+docs/_static/jquery-3.6.0.js
+docs/_static/underscore-1.13.1.js
