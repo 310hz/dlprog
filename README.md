@@ -327,7 +327,11 @@ Output
 
 - Add `store_all_values` and `store_all_times` arguments.
 
-### [1.2.8](https://pypi.org/project/dlprog/1.2.8/) (2024-06-23, Latest)
+### [1.2.8](https://pypi.org/project/dlprog/1.2.8/) (2024-06-23)
 
 - Add `momentum` argument.
 - Add `now_values()` method.
+
+### [1.2.9](https://pypi.org/project/dlprog/1.2.9/) (2026-07-05, Latest)
+
+- Update GitHub Pages URL
